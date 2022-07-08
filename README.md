@@ -12,6 +12,7 @@ Criado primeiro repositório, para entrega do desafio "Criando seu Primeiro Repo
 1. Exercícios Flexbox
 
 2. Exercícios JavaScript
+	
 	2.1 Contador, Sintaxe e Operadores
 
 3. Projeto (Recriando a página inicial do Instagram)
