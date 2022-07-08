@@ -11,7 +11,12 @@ Criado primeiro repositório, para entrega do desafio "Criando seu Primeiro Repo
 
 1. Exercícios Flexbox
 
-2. Projeto (Recriando a página inicial do Instagram)
+2. Exercícios JavaScript
+	Contador, Sintaxe e Operadores
+
+3. Projeto (Recriando a página inicial do Instagram)
+
+
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
